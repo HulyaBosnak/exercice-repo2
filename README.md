@@ -1,4 +1,4 @@
 # exercice-repo
-Hello
-Hi from Master!
+<<<<<<< HEAD
+almost done for today!
 
