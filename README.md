@@ -1,7 +1,12 @@
 # exercice-repo
-Repo made for exercises
-This will make a conflict!
+This project will contain...
+Repository made for exercises.
+Hello, again!!!
 
-Repo made for exercises
+I love GitHub<<<<<<< .mine
 !I love GitHub
 
+=======
+
+
+>>>>>>> .theirs
