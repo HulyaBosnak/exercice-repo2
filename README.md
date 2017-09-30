@@ -1,2 +1,2 @@
 # exercice-repo
-Hello GitBash
+Hello
