@@ -3,4 +3,5 @@ Repo made for exercises
 This will make a conflict!
 
 Repo made for exercises
+!I love GitHub
 
