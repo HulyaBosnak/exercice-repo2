@@ -1,4 +1,4 @@
 # exercice-repo
 Hello
-Hi all!
+Hi from Master!
 
